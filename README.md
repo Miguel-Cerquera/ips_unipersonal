@@ -78,7 +78,7 @@ src
 1. Clonar el repositorio.
 
 ```bash
-git clone https://github.com/usuario/ips-unipersonal.git
+git clone https://github.com/Miguel-Cerquera/ips_unipersonal.git
 ```
 
 2. Crear la base de datos utilizada por la aplicación.
