@@ -94,4 +94,4 @@ Este proyecto fue desarrollado como parte del curso **Técnicas de Programación
 
 ## 👨‍💻 Autor
 
-**Miguel Cerquera**
+**Miguel Cerquera Arias**
